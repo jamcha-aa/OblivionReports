@@ -2,7 +2,7 @@
 
 ## License
 
-Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).  
+Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).  
 
 This novel is licensed under the [Creative Commons Attribution Non Commercial Share Alike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
 
