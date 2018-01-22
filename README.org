@@ -3,9 +3,11 @@
 
 * オブリビオン・リポート
 
+  [[https://jamcha-aa.gitbooks.io/oblivionreports/content/]]
+
   随時ストーリーの修正を行っています。
 
-  この文章はフィクションであり，実在の人物・団体とは一切関係ありません。
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
 ** License
    Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).
