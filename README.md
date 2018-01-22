@@ -1,5 +1,7 @@
 # オブリビオン・リポート
 
+この文章はフィクションであり，実在の人物・団体とは一切関係ありません。  
+
 ## License
 
 Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).  
