@@ -2,7 +2,7 @@
 
 <https://jamcha-aa.gitbooks.io/oblivionreports/content/>  
 
-随時ストーリーの修正を行っています。  
+思いつきでストーリーは大幅に変わります。  
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
