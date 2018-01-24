@@ -73,3 +73,4 @@
 * [071](/article/071.md)
 * [072](/article/072.md)
 * [073](/article/073.md)
+* [074](/article/074.md)
