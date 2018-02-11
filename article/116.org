@@ -1,7 +1,7 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: \n:t
 
-* 115
+* 116
 
   「ボッチ，起きて」
 
