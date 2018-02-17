@@ -2,9 +2,10 @@
 
 <https://jamcha-aa.gitbooks.io/oblivionreports/content/>  
 
-この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
+<br>  
+<br>  
 
-## License
+この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
 Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).  
 

@@ -6,10 +6,12 @@
   [[https://jamcha-aa.gitbooks.io/oblivionreports/content/]]
 
 
+  <br>
+  <br>
+
   この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
-** License
-   Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).
+  Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).
 
    This novel is licensed under the [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
 
