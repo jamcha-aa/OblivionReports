@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 127
+
+  頭の中に図書館をもつケライ，事実のみを記述するボッチと異なり，アルジの作業は捗らなかった。書庫が使えず，資料がないため引用ができないのだ。どうしても文章がぶつ切りになってしまう。ミミは分野が異なるのでアルジを助けるのが難しい。アルジは字が読めなくても，書庫のどこを調べれば目当ての情報があるのかある程度はわかっている。あとはそれを読んでもらえば特定できるのだ。だが隔離されているかぎりこの方法が使えない。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
