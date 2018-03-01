@@ -3,6 +3,10 @@
 <https://jamcha-aa.gitbooks.io/oblivionreports/content/>  
 
 <br>  
+
+画面左上の「≡」で目次の表示/非表示，「A」でフォントサイズやテーマの切り替えができます。  
+
+<br>  
 <br>  
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
