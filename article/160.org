@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 160
+
+  威勢よくオヤブンは決断を下したものの，そのための仕事をするのはショムとミミの役目である。ボッチたちが採取してきたサンプルを増やし，ばらまくのだ。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
