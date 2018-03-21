@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 163
+
+  ボッチはマッパとともに川を渡り，設営予定の場所を目指していた。マッパは先ほど通りすぎた穏やかな川が夜には黒く染まるとは俄には信じられなかった。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
