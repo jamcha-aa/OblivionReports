@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 182
+
+  力は命を奪うだけでなく，命を救うことにも使うことができる。仮にシッショの言ったように，竜人や人間がその力を破壊に向けるほうが得意であっても，助けること，救うことに使えないわけではない。
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
