@@ -2,7 +2,7 @@
 
 # オブリビオン・リポート
 
-<https://jamcha-aa.gitbook.io/oblivion-reports/>  
+<https://jamcha-aa.gitbooks.io/oblivionreports/content/>  
 
 <br>  
 スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。  
