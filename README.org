@@ -9,6 +9,11 @@
   スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。
 
   <br>
+  [[https://jamcha-aa.gitbook.io/about/][作品一覧]]
+
+  [[https://github.com/jamcha-aa/OblivionReports][GitHubリポジトリ]]
+
+  <br>
   <br>
   この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
