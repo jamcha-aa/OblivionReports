@@ -21,6 +21,6 @@
 
   Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).
 
-  This novel is licensed under the [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
+  This novel is licensed under the [[https://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
 
-  ![[http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
+  ![[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
