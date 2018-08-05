@@ -5,12 +5,12 @@
 <https://jamcha-aa.github.io/OblivionReports/>  
 
 <br>  
-スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。  
+画面左上の「≡」で目次の表示/非表示ができます。  
 
 <br>  
 <br>  
 
-[作品一覧](https://jamcha-aa.gitbook.io/about/)  
+[作品一覧](https://jamcha-aa.github.io/About/)  
 
 [GitHubリポジトリ](https://github.com/jamcha-aa/OblivionReports)  
 
