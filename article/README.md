@@ -2,6 +2,8 @@
 
 # オブリビオン・リポート
 
+![logo](./img/oblivionreports.png)  
+
 <https://jamcha-aa.github.io/OblivionReports/>  
 
 <br>  
@@ -12,7 +14,7 @@
 
 [作品一覧](https://jamcha-aa.github.io/About/)  
 
-[GitHubリポジトリ](https://github.com/jamcha-aa/OblivionReports)  
+[GitHub リポジトリ](https://github.com/jamcha-aa/OblivionReports)  
 
 <br>  
 <br>  
@@ -23,4 +25,6 @@ Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).
 This novel is licensed under the [Creative Commons Attribution Non Commercial Share Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
 
 ![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
+
+Published with [mdBook](https://github.com/rust-lang-nursery/mdBook)  
 

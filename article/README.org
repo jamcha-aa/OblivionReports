@@ -3,6 +3,8 @@
 
 * オブリビオン・リポート
 
+  ![[./img/oblivionreports.png][logo]]
+
   [[https://jamcha-aa.github.io/OblivionReports/]]
 
   <br>
@@ -13,7 +15,7 @@
 
   [[https://jamcha-aa.github.io/About/][作品一覧]]
 
-  [[https://github.com/jamcha-aa/OblivionReports][GitHubリポジトリ]]
+  [[https://github.com/jamcha-aa/OblivionReports][GitHub リポジトリ]]
 
   <br>
   <br>
@@ -24,3 +26,5 @@
   This novel is licensed under the [[https://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
 
   ![[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
+
+  Published with [[https://github.com/rust-lang-nursery/mdBook][mdBook]]

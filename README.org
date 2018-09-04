@@ -3,17 +3,16 @@
 
 * オブリビオン・リポート
 
-  [[https://jamcha-aa.github.io/OblivionReports/]]
+  ![[https://jamcha-aa.github.io/About/img/users/oblivionreports.png][logo]]
 
-  <br>
-  画面左上の「≡」で目次の表示/非表示ができます。
+  https://jamcha-aa.github.io/OblivionReports/
 
   <br>
   <br>
 
   [[https://jamcha-aa.github.io/About/][作品一覧]]
 
-  [[https://github.com/jamcha-aa/OblivionReports][GitHubリポジトリ]]
+  [[https://github.com/jamcha-aa/OblivionReports][GitHub リポジトリ]]
 
   <br>
   <br>

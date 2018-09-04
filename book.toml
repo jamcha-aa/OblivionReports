@@ -1,0 +1,8 @@
+[book]
+authors = ["jamcha"]
+multilingual = false
+src = "article"
+title = "OblivionReports"
+
+[build]
+build-dir = "docs"
