@@ -2,7 +2,7 @@ const summary = require('./summary.js');
 
 module.exports = {
     title: 'オブリビオン・リポート',
-    description: '生きることって，そんなに悪いことなんですか？',
+    description: ' ',
     locales: {
         '/': {
             lang: 'ja'
