@@ -1,20 +1,18 @@
+---
+home: true
+heroImage: /hero.png
+actionText: 読む
+actionLink: /article/
+---
 
+<br>
+<br>
 
-# オブリビオン・リポート
+スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。
 
-![logo](https://jamcha-aa.github.io/About/img/users/oblivionreports.png)  
+<br>
+<br>
 
-<https://jamcha-aa.github.io/OblivionReports/>  
-
-<br>  
-<br>  
-
-[作品一覧](https://jamcha-aa.github.io/About/)  
-
-[GitHub リポジトリ](https://github.com/jamcha-aa/OblivionReports)  
-
-<br>  
-<br>  
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
 Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).  
@@ -23,3 +21,4 @@ This novel is licensed under the [Creative Commons Attribution Non Commercial Sh
 
 ![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
 
+Published with [VuePress](https://vuepress.vuejs.org/)
